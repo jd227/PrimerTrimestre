@@ -1,3 +1,4 @@
+# imprime matriz cuadrada de tamaño n
 n=int(input("ingresa las dimensiones n: "))
 matriz=[[0]*n for _ in range(n)]
 for fila in range(n):#ciclo para llenar matriz
