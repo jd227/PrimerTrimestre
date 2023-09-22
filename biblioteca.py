@@ -12,6 +12,7 @@ while contador <=3:
         print("manolete este es su cuenta. ")
         sys.exit()
     elif contador==1: 
+        
         print(f"manito aqui no es. quedara yuka en dos intentos")
     elif  contador==2:
          print(f"manito aqui no es. quedara yuka en un intentos")
